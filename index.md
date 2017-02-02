@@ -1,4 +1,4 @@
-# Welcome to ISPyB collaboration Pages
+# Welcome to ISPyB collaboration pages
 
 ISPyB is a Laboratory Information Management System (LIMS) combining sample tracking and experiment reporting at synchrotron beamlines. It has been in production for many years, and is structured so as to make development and maintenance easy for software teams. 
 
