@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to ISPyB collaboration Pages
 
-You can use the [editor on GitHub](https://github.com/ispyb/ispyb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ISPyB is a Laboratory Information Management System (LIMS) combining sample tracking and experiment reporting at synchrotron beamlines. It has been in production for many years, and is structured so as to make development and maintenance easy for software teams. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It was initially developed through a joint ESRF/e-HTPX  initiative in 2003.
 
-### Markdown
+In 2017, a collaboration agreement has been signed for the development of ISPyB between the major synchrotron facilities in Europe.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Today ISPyB is actively supported by the following partners: ESRF, Soleil, DLS, MAX IV, HZB, EMBL, Global Phasing Ltd, DESY, ALBA.
 
-```markdown
-Syntax highlighted code block
+## Meetings
+### ESRF January 16th 17th
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1st official meeting of the ISPyB collaboration.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ispyb/ispyb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You want more information about ISPyB, please contact: <ispyb@esrf.fr>.
